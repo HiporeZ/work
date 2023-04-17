@@ -1,3 +1,3 @@
-print("hahahah")
+a,b = map(int, input().split())
 
-print("hahahahhahaha")
+print(a+b)
